@@ -1,6 +1,4 @@
-# Wifinetic Write Up (HTB rteired machine) 
-
-# [Wifinetic](https://app.hackthebox.com/machines/Wifinetic) 
+# [Wifinetic](https://app.hackthebox.com/machines/Wifinetic) Write Up  (HTB retired machine) 
 
 Difficulty: **Easy** 
 
